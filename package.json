@@ -1,0 +1,25 @@
+{
+  "name": "git-course",
+  "version": "1.0.0",
+  "description": "this is sample readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Warsha2003/gitHub01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Warsha2003/gitHub01/issues"
+  },
+  "homepage": "https://github.com/Warsha2003/gitHub01#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "express": "^5.1.0",
+    "karma": "^6.4.4"
+  }
+}
